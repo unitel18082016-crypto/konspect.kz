@@ -68,7 +68,12 @@ pb-type: note
 
 <span style="font-size:1.25em">Возьмём 2 штриха 30° и 20°. Расстояния между ними разделены на 2 деления. Значит:</span>
 
-<span style="display:block; text-align:center"><span style="font-size:2em">$с=\frac{30\degreeС-20\degreeС}{2}=5\degreeС$</span></span>
+$$
+c=\frac{30^\circ C-20^\circ C}{2}=5^\circ C
+$$
+
 <span style="font-size:1.25em">Т. о. цена каждого деления = 5°C.</span>
+
+
 
 
