@@ -1,0 +1,50 @@
+---
+pb-publish: true
+permalink: /lektsiya-1
+pb-type: note
+---
+
+# <span style="font-size:1.25em">Наука о природе</span>
+
+
+<span style="color:#2f9e44; font-weight:bold; font-size:1.25em">Физика</span><span style="font-size:1.25em"> </span><span style="color:#b58900; font-style:italic; font-size:1.25em">(от греч. physis — природа)</span><span style="font-size:1.25em"> — это наука, изучающая физические явления в неживой природе.</span>
+
+<span style="font-size:1.25em">Каждое из окружающих нас тел называют физическим телом, или телом (песчинка, камень, Луна).</span>
+
+<span style="font-size:1.25em">Всё, что нас окружает, — это Вселенная, а всё то, что существует в ней независимо от нашего сознания, — материя.</span>
+
+![](../../assets/pasted-image-20261104235556.png)
+
+<span style="font-size:1.25em">В физике изучают механические, электромагнитные, тепловые, звуковые и световые явления. Все эти явления — физические.</span>
+
+
+---
+
+
+## <span style="font-size:1.25em">Наблюдения и опыты</span>
+
+<span style="font-style:italic; font-weight:bold; color:#2f9e44; font-size:1.25em">Наблюдение</span><span style="font-size:1.25em"> — это сбор информации с помощью органов чувств в окружающей действительности.</span>
+<span style="font-size:1.25em">Закономерности устанавливаются при сборе большого количества данных о явлении или предмете изучения. Получая новую информацию, мозг сопоставляет её с имеющимися данными и делает умозаключения — </span><span style="color:#b58900; font-size:1.25em">гипотезу</span><span style="font-size:1.25em">.</span>
+<span style="color:#2f9e44; font-weight:bold; font-style:italic; font-size:1.25em">Опыт</span><span style="font-size:1.25em"> — специально спроектированная ситуация для установления верности или ложности гипотезы. То есть опыт проводится по запланированному плану с определённой целью.</span>
+
+<span style="font-size:1.25em">Например:</span>
+
+<span style="font-size:1.25em">Наблюдение - тяжёлые тела (книга) падают быстрее лёгких (лист бумаги).</span>
+
+<span style="font-size:1.25em">Гипотеза - любое тяжёлое тело падает быстрее лёгкого.</span>
+
+<span style="font-size:1.25em">Эксперимент - комок бумаги падает быстрее несвёрнутого листа (их масса одинакова).</span>
+
+<span style="font-size:1.25em">Гипотеза - что-то влияет на скорость падения бумаги (воздух?).
+</span>
+
+<span style="font-size:1.25em">Эксперимент - изученим падения уменьшенных или исключённых влияний воздуха.</span>
+
+
+![](../../assets/pasted-image-20261104235701.png)
+
+<span style="font-size:1.25em">Закон - все тела падают под действием силы тяжести одинаково (свободного падения).</span>
+
+
+
+
